@@ -5,7 +5,7 @@ import streamlit as st
 
 # 1. Page Configuration & Custom Styling
 st.set_page_config(
-    page_title="PrimeGrid AI | Broadcast Schedule Optimizer",
+    page_title="PrimeGrid  | Broadcast Schedule Optimizer",
     page_icon="📺",
     layout="wide",
 )
