@@ -14,7 +14,7 @@ st.markdown(
     """
     <div style="background: linear-gradient(90deg, #1e3a8a 0%, #2563eb 100%);
                 padding: 20px 25px; border-radius: 12px; color: white; margin-bottom: 20px;">
-        <h1 style="margin: 0; font-size: 2rem;">📺 PrimeGrid AI</h1>
+        <h1 style="margin: 0; font-size: 2rem;">📺 PrimeGrid </h1>
         <p style="margin: 5px 0 0 0; font-size: 1.05rem; opacity: 0.9;">
             Evolutionary Broadcast & Sports Lineup Optimizer • Powered by Genetic Algorithms
         </p>
